@@ -1,2 +1,7 @@
 # function-request-forwarder
-Function request forwared with DNS resolution customization (based on Google Cloud Function)
+Function request forwarder with DNS resolution customization (based on Google Cloud Function)
+
+# How to use test it
+```bash
+bash run.sh
+```
